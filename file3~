@@ -1,0 +1,9 @@
+
+q
+
+the file3
+<<<<<<< HEAD
+git -reflog
+=======
+git merge --no-ff -m " " dev
+>>>>>>> feature-v
