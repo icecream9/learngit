@@ -1,3 +1,6 @@
 
+q
+
 the file3
-git -reflog
+git merge --no-ff -m " " dev
+
