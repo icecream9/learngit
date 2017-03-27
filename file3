@@ -1,2 +1,4 @@
 
+
 the file3
+git merge --no-ff -m " " dev
